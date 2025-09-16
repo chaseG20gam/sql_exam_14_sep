@@ -1,0 +1,21 @@
+customer_id,name,email,signup_date,country,city,postal_code
+1,natalia perez,natalia.perez1@example.com,2022-04-03,germany,munich,19289
+2,pablo perez,pablo.perez2@example.com,2021-03-07,italy,naples,13915
+3,jordan martinez,jordan.martinez3@mail.com,2021-02-24,italy,florence,83573
+4,maria blanco,maria.blanco4@sample.net,2022-07-24,france,toulouse,10851
+5,carla lopez,carla.lopez5@sample.net,2021-11-15,germany,hamburg,29221
+6,carla romero,carla.romero6@example.com,2021-07-18,spain,sevilla,33526
+7,mario romero,mario.romero7@demo.org,2021-09-13,spain,sevilla,34807
+8,jordan navarro,jordan.navarro8@demo.org,2022-01-29,italy,turin,19126
+9,alex ferrer,alex.ferrer9@mail.com,2022-04-22,germany,berlin,14238
+10,sofia sanchez,sofia.sanchez10@sample.net,2023-01-29,germany,munich,47566
+11,maria ferrer,maria.ferrer11@demo.org,2021-12-17,spain,bilbao,45005
+12,pablo martinez,pablo.martinez12@mail.com,2022-07-07,portugal,braga,4598-801
+13,elena garcia,elena.garcia13@mail.com,2023-04-02,spain,valencia,27546
+14,jordan martinez,jordan.martinez14@demo.org,2023-03-22,france,toulouse,94259
+15,diego lopez,diego.lopez15@demo.org,2022-06-23,france,lyon,86622
+16,sofia torres,sofia.torres16@sample.net,2021-10-11,germany,munich,67784
+17,diego perez,diego.perez17@example.com,2021-11-24,spain,barcelona,37666
+18,laura perez,laura.perez18@sample.net,2023-08-17,portugal,faro,9669-357
+19,ivan garcia,ivan.garcia19@example.com,2022-11-28,italy,turin,24631
+20,lucas gomez,lucas.gomez20@mail.com,2022-06-24,portugal,lisboa,9201-880
